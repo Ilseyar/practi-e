@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TwoActivityProject</string>
+    <string name="tv_second_activity">You are on the second Activity</string>
+</resources>
